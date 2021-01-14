@@ -3,7 +3,7 @@
 
 - I started [Board Off](https://www.board-off.com)
 
-- 👨‍💻 Some of my coolest projects are available at [https://www.iamtsamart.com](https://www.iamtsamart.com)
+- 👨‍💻 Some (few) live web projects are available at [https://www.iamtsamart.com](https://www.iamtsamart.com)
 
 - 📫 How to reach me **philip.tsamantanis@gmail.com**
 
