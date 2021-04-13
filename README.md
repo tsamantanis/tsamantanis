@@ -5,13 +5,12 @@
 
 - 👨‍💻 Some of my cool projects are available [here](https://www.makeschool.com/portfolio/philippos)
 
-- 📫 How to reach me **philip.tsamantanis@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+	
 <a href="https://linkedin.com/in/philippos-tsamantanis-a0b12a14a" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="philippos-tsamantanis" height="30" width="40" /></a>
-<a href="https://dribbble.com/philippos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="philippos" height="30" width="40" /></a>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="philippos-tsamantanis-linkedin" /></a>
+<a href="https://dribbble.com/philippos" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="philippos-dribbble" /></a>
 </p>
 
 <hr />
@@ -21,8 +20,9 @@
 <hr />
 
 ### npm public packages
-- [String Lib](https://www.npmjs.com/package/@tsamantanis/string-lib)
-- [Date Library](https://www.npmjs.com/package/@tsamantanis/date-lib)
+<a href="https://www.npmjs.com/package/@tsamantanis/react-glassmorphism" target="blank"><img src="https://img.shields.io/badge/NPM-react--glassmorphism-%23FD6D0D?style=for-the-badge&logo=appveyor" alt="@tsamantanis/react-glassmorphism"/></a>
+<a href="https://www.npmjs.com/package/@tsamantanis/date-lib" target="blank"><img src="https://img.shields.io/badge/NPM-date--lib-%232cC974?style=for-the-badge&logo=appveyor" alt="@tsamantanis/date-lib"/></a>
+<a href="https://www.npmjs.com/package/@tsamantanis/string-lib" target="blank"><img src="https://img.shields.io/badge/NPM-string--lib-%236c0cfc?style=for-the-badge&logo=appveyor" alt="@tsamantanis/string-lib"/></a>
 
 <hr />
 
