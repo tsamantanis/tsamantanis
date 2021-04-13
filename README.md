@@ -8,9 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	
-<a href="https://linkedin.com/in/philippos-tsamantanis-a0b12a14a" target="blank">
+<a href="https://linkedin.com/in/philippos-tsamantanis-a0b12a14a" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="philippos-tsamantanis-linkedin" /></a>
-<a href="https://dribbble.com/philippos" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="philippos-dribbble" /></a>
+<a href="https://dribbble.com/philippos" target="_blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="philippos-dribbble" /></a>
 </p>
 
 <hr />
@@ -20,9 +20,9 @@
 <hr />
 
 ### npm public packages
-<a href="https://www.npmjs.com/package/@tsamantanis/react-glassmorphism" target="blank"><img src="https://img.shields.io/badge/NPM-react--glassmorphism-%23FD6D0D?style=for-the-badge&logo=appveyor" alt="@tsamantanis/react-glassmorphism"/></a>
-<a href="https://www.npmjs.com/package/@tsamantanis/date-lib" target="blank"><img src="https://img.shields.io/badge/NPM-date--lib-%232cC974?style=for-the-badge&logo=appveyor" alt="@tsamantanis/date-lib"/></a>
-<a href="https://www.npmjs.com/package/@tsamantanis/string-lib" target="blank"><img src="https://img.shields.io/badge/NPM-string--lib-%236c0cfc?style=for-the-badge&logo=appveyor" alt="@tsamantanis/string-lib"/></a>
+<a href="https://www.npmjs.com/package/@tsamantanis/react-glassmorphism" target="_blank"><img src="https://img.shields.io/badge/NPM-react--glassmorphism-%23FD6D0D?style=for-the-badge&logo=appveyor" alt="@tsamantanis/react-glassmorphism"/></a>
+<a href="https://www.npmjs.com/package/@tsamantanis/date-lib" target="_blank"><img src="https://img.shields.io/badge/NPM-date--lib-%232cC974?style=for-the-badge&logo=appveyor" alt="@tsamantanis/date-lib"/></a>
+<a href="https://www.npmjs.com/package/@tsamantanis/string-lib" target="_blank"><img src="https://img.shields.io/badge/NPM-string--lib-%236c0cfc?style=for-the-badge&logo=appveyor" alt="@tsamantanis/string-lib"/></a>
 
 <hr />
 
@@ -30,22 +30,25 @@
 
 <p align="left"> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> 
 	</a> 
 	<a href="https://www.typescriptlang.org/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+		<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> 
 	</a> 
   <a href="https://www.python.org" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
 	</a> 
 	<a href="https://www.w3schools.com/css/" target="_blank"> 
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
 	</a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> 
 	</a> 
 	<a href="https://www.cprogramming.com/" target="_blank"> 
-	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+	  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /> 
+	</a> 
+	<a href="https://www.java.com/en/" target="_blank"> 
+	  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> 
 	</a> 
 	</p>
 	
