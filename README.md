@@ -3,7 +3,7 @@
 
 - 🏄🏽‍♂️ I started [Board Off](https://www.board-off.com)
 
-- 👨‍💻 Some of my cool projects are available [here](https://tsamantanis.github.io)
+- 👨‍💻 Some of my cool projects are available [here](https://www.tsamart.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
