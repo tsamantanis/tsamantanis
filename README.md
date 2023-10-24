@@ -13,9 +13,6 @@
 <a href="https://dribbble.com/philippos" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="philippos-dribbble" /></a>
 </p>
 
-<hr />
-
-[comment]: <> ![Philippos's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsamantanis&count_private=true&show_icons=true&theme=react)
 
 <hr />
 
