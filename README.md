@@ -15,7 +15,7 @@
 
 <hr />
 
-![Philippos's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsamantanis&count_private=true&show_icons=true&theme=react)
+[comment]: <> ![Philippos's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsamantanis&count_private=true&show_icons=true&theme=react)
 
 <hr />
 
