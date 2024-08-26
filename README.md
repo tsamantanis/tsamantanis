@@ -4,7 +4,7 @@
 - 👨‍💻 Some of my cool projects are available [here](https://www.tsamart.com)
 
 - 🪁 I started [UsedGear.gr](https://usedgear.gr)
-- 
+ 
 - 🏄🏽‍♂️ Founder of [Board Off](https://www.board-off.com)
 
 <h3 align="left">Connect with me:</h3>
