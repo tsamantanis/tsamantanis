@@ -1,5 +1,6 @@
 # Philippos Tsamantanis
 
+Also known as [tsamart](https://tsamart.com)
 AI systems that work. Full-stack development. Design.
 
 Currently building agentic AI and evaluation frameworks at [Velais](https://velais.com).
